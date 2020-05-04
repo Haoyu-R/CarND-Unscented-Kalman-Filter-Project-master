@@ -1,0 +1,6 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+/.vs/CarND-Unscented-Kalman-Filter-Project-master/v16
